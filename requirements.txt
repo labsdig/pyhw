@@ -9,7 +9,7 @@ importlib-metadata==6.7.0
 itsdangerous==2.1.2
 Jinja2==3.1.6
 MarkupSafe==2.1.5
-numpy
+numpy==1.21.5
 opencv-contrib-python==4.6.0.66
 opencv-python==4.5.5.64
 pefile==2019.4.18
